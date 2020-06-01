@@ -1,0 +1,19 @@
+{
+  "name": "Indecision-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "start": "lite-serve ./public/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
